@@ -9,10 +9,10 @@
 - 💬 Sobre mim: Gosto de jogos, tecnologia e séries
 
 ### Conecte comigo: 👇
-[<img align="center" alt="renatodesouzapenteadodecastro | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/renatodesouzapenteadodecastro/)
-[<img align="center" alt="renatocastro02@hotmail.com | Outlook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/microsoftoutlook.svg" />](mailto:renatocastro02@hotmail.com) 
+[<img align="left" alt="renato | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/renatodesouzapenteadodecastro/)
+[<img align="left" alt="renatoemail | Outlook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/microsoftoutlook.svg" />](mailto:renatocastro02@hotmail.com) 
 
-<br />
+
 
 ### Linguagens e ferramentas:
 
@@ -36,4 +36,4 @@
 
 ---
 
-<img align="left" alt="Renato's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RenatoDTH&hide=contribs,prs&show_icons=true
+<img align="left" alt="Renato's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RenatoDTH&hide=contribs,prs&show_icons=true" />
