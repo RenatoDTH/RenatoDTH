@@ -10,7 +10,7 @@
 
 ### Conecte comigo: 👇
 [<img align="left" alt="renatodesouzapenteadodecastro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/renatodesouzapenteadodecastro/)
-[<img align="left" alt="renatocastro02@hotmail.com | Outlook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/microsoftoutlook.svg" />(mailto:renatocastro02@hotmail.com) 
+[<img align="left" alt="renatocastro02@hotmail.com | Outlook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/microsoftoutlook.svg" />](mailto:renatocastro02@hotmail.com) 
 
 <br />
 
