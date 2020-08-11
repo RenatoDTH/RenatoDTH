@@ -9,8 +9,8 @@
 - 💬 Sobre mim: Gosto de jogos, tecnologia e séries
 
 ### Entre em contato comigo: 👇
-[<img align="center" justify-content="center" alt="renato | LinkedIn" width="32px" src="https://img2.gratispng.com/20180529/str/kisspng-linkedin-computer-icons-logo-professional-network-social-networks-5b0d65b29ec943.2054111815276046586504.jpg" />](https://www.linkedin.com/in/renatodesouzapenteadodecastro/)
-[<img align="center" justify-content="center" alt="renatoemail | Outlook" width="32px" src="https://img2.gratispng.com/20180413/yvw/kisspng-microsoft-outlook-outlook-com-computer-icons-email-free-5ad0b31b8c6798.1156833515236267795751.jpg" />](mailto:renatocastro02@hotmail.com) 
+[<img align="left" alt="renato | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/renatodesouzapenteadodecastro/)
+[<img align="left" alt="renatoemail | Outlook" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/microsoftoutlook.svg" />](mailto:renatocastro02@hotmail.com) 
 
 </br>
 
