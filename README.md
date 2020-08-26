@@ -2,7 +2,7 @@
 
 ## Eu sou Engenheiro Químico e Desenvolvedor FullStack!
 - 🙏 No momento estou a procura oportunidades!
-- 😱 Vivendo caso de amor e ódio com JavaScript, tendo aprendido bastante sobre o universo do back, front e mobile😆
+- 😱 Vivendo caso de amor e ódio com JavaScript, tendo aprendido bastante sobre o universo do back, front e mobile
 - 👯 Busco colaborar em projetos envolvendo as stacks aprendidas, procurando sempre a melhorar
 - 💻 Minha stack: ReactJS, Node.js, React Native
 - 📕 Objetivos de 2020: Aprender e me aperfeiçoar mais e arrumar um emprego
