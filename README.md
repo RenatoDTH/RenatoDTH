@@ -31,7 +31,6 @@
 [<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](http://github.com/)
 [<img align="left" alt="Docker" width="32px" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_docker-512.png" />](https://www.docker.com/)
 [<img align="left" alt="Jest" width="32px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/5894313931548218185-512.png" />](https://jestjs.io/)
-[<img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://pt.wikipedia.org/wiki/PowerShell)
 
 <br />
 
