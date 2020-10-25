@@ -20,6 +20,7 @@
 [<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
 [<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)
 [<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://www.javascript.com/)
+[<img align="left" alt="TypeScript" width="32px" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" />](https://www.typescriptlang.org/)
 [<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://pt-br.reactjs.org/)
 [<img align="left" alt="Redux" width="32px" src="https://img2.gratispng.com/20181122/fzo/kisspng-redux-react-javascript-library-application-softwar-egghead-intro-to-redux-5bf74afc404894.3460027115429332442633.jpg"/>](https://redux.js.org/)
 [<img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://nodejs.org/en/)
