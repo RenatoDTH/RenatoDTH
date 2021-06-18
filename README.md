@@ -1,7 +1,7 @@
 ### Boa tarde galera, quem escreve é o Renato 🙌
 
 ## Eu sou Engenheiro Químico e Desenvolvedor FullStack!
-- 🙏 No momento estou a procura oportunidades!
+- 🙏 No momento estou desenvolvendo na Bluelab!
 - 😱 Vivendo caso de amor e ódio com JavaScript, tendo aprendido bastante sobre o universo do back, front e mobile
 - 👯 Busco colaborar em projetos envolvendo as stacks aprendidas, procurando sempre a melhorar
 - 💻 Minha stack: ReactJS, Node.js, React Native
