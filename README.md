@@ -5,7 +5,7 @@
 - 😱 Vivendo caso de amor e ódio com JavaScript, tendo aprendido bastante sobre o universo do back, front e mobile
 - 👯 Busco colaborar em projetos envolvendo as stacks aprendidas, procurando sempre a melhorar
 - 💻 Minha stack: ReactJS, Node.js, React Native
-- 📕 Objetivos de 2021: Aprender e me aperfeiçoar mais e arrumar um emprego
+- 📕 Objetivos de 2021: Aprender e me aperfeiçoar mais
 - 💬 Sobre mim: Gosto de jogos, tecnologia e séries
 
 ### Entre em contato comigo: 👇
